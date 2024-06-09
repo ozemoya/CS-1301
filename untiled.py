@@ -1,0 +1,6 @@
+print("HELPPPPPPPP", end= ' ')
+print('My Name is.....', end=' ')
+print('Walte-', end=' ')
+print("1\n2\n3")
+x = input()
+print(x + " is Peak flippin fiction", end= '')
